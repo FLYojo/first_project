@@ -1,2 +1,0 @@
-print("Hellp from repository!")
-
